@@ -1,0 +1,9 @@
+Experiment Timestamp: 2025-05-05_17-38-01
+Model: LightGBM
+Dataset Size: 21799
+Number of Features: 40
+Classes: CD, HYP, MI, NORM, STTC
+Hyperparameters: max_depth=12, num_leaves=150, n_estimators=500, learning_rate=0.05
+Class Imbalance Handling: SMOTE+Tomek Links (target_samples=3000), RandomUnderSampler (NORM=6000)
+Feature Selection: RFE (n_features=15) with PolynomialFeatures (degree=2, interaction_only=True)
+Missing Value Handling: Class-specific median imputation
