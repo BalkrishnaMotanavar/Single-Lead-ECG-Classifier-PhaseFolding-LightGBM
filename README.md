@@ -88,7 +88,7 @@ Using the PTB-XL dataset (21,837 records), we implemented a five-stage processin
 
 ## 📖 Full Thesis
 
-📄 **[Read Full Thesis](./Automated Single Lead ECG Classification for Cardiovascular Diagnosis Using Phase Folding and LightGBM.pdf)**  
+📄 **[Read Full Thesis](./Thesis.pdf)**  
 For full pipeline details, validation experiments, literature survey, and future scope, please read the MSc Data Science thesis submitted to the University of Aberdeen in May 2025.
 
 ---
