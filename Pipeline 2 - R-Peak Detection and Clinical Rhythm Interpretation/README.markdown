@@ -64,10 +64,7 @@ This pipeline detects R-peaks in preprocessed Lead V6 signals from Pipeline 1 us
   - Format: Preprocessed Lead V6 signal (black) with R-peaks (red dots), legend outside plot, DPI=300.
 
 ## Thesis Reference
-- **Figure 3.2**:
-  - [rpeak_detection_ecg_id_5.png](https://raw.githubusercontent.com/BalkrishnaMotanavar/Single-Lead-ECG-Classifier-PhaseFolding-LightGBM/main/Visualizations/rpeak_detection_ecg_id_5.png)
-  - [rpeak_detection_ecg_id_177.png](https://raw.githubusercontent.com/BalkrishnaMotanavar/Single-Lead-ECG-Classifier-PhaseFolding-LightGBM/main/Visualizations/rpeak_detection_ecg_id_177.png)
-  - Caption: "R-peak detection for patients with normal sinus rhythm (top) and myocardial infarction (bottom), showing detected R-peaks (red dots) on preprocessed Lead V6 signals."
+- **Figure 3.2**: "R-peak detection for patients with normal sinus rhythm (top) and myocardial infarction (bottom), showing detected R-peaks (red dots) on preprocessed Lead V6 signals."
 
 ## Notes
 - If `ecg_id_5` or `ecg_id_177` are missing from `preprocessed_lead_v6.h5`, verify Pipeline 1 processed these records.
