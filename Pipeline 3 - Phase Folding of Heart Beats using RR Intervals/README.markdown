@@ -57,8 +57,7 @@ This pipeline aligns and averages heartbeat cycles in preprocessed Lead V6 signa
   - Format: Phase (0 to 1) vs. amplitude (mV), R-peak at phase 0.375 (red dashed line), DPI=300.
 
 ## Thesis Reference
-- **Figure 3.3**: [phase_folded_ecg_id_47.png](https://raw.githubusercontent.com/BalkrishnaMotanavar/Single-Lead-ECG-Classifier-PhaseFolding-LightGBM/main/Visualizations/phase_folded_ecg_id_47.png)
-  - Caption: "Phase folding for ECG ID 47 (NORM), showing signal, aligned beats, and averaged heartbeat."
+- **Figure 3.3**: "Phase folding for ECG ID 47 (NORM), showing signal, aligned beats, and averaged heartbeat."
 
 ## Notes
 - Accurate R-peak data from Pipeline 2 is critical; misalignment can affect cycle normalization.
