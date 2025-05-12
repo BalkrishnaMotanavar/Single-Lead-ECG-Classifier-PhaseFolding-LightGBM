@@ -57,8 +57,7 @@ This pipeline detects PQRST complexes in phase-folded Lead V6 signals from Pipel
   - Format: Phase (0 to 1) vs. amplitude (mV), DPI=200.
 
 ## Thesis Reference
-- **Figure 3.4**: [pqrst_detection_ecg_id_47.png](https://raw.githubusercontent.com/BalkrishnaMotanavar/Single-Lead-ECG-Classifier-PhaseFolding-LightGBM/main/Visualizations/pqrst_detection_ecg_id_47.png)
-  - Caption: "PQRST detection for ECG ID 47 (NORM), showing wave onsets, peaks, and offsets."
+- **Figure 3.4**: "PQRST detection for ECG ID 47 (NORM), showing wave onsets, peaks, and offsets."
 
 ## Notes
 - Noise in phase-folded signals can affect P-wave detection; verify Pipeline 3 outputs.
