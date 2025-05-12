@@ -52,8 +52,7 @@ This pipeline extracts and preprocesses Lead V6 signals from the PTB-XL dataset,
   - Corresponds to Figure 3.1 in the thesis, showing original (red) and filtered (black) Lead V6 signals for `00008_hr`.
 
 ## Thesis Reference
-- **Figure 3.1**: 00008_hr_lead_v6.png
-  - Caption: "Original (top, red) and filtered (bottom, black) Lead V6 signals for patient 00008_hr, demonstrating preprocessing efficacy."
+- **Figure 3.1**: "Original (top, red) and filtered (bottom, black) Lead V6 signals for patient 00008_hr, demonstrating preprocessing efficacy."
 
 ## Notes
 - Ensure the PTB-XL dataset is the 500 Hz version, as the notebook expects `fs=500`.
