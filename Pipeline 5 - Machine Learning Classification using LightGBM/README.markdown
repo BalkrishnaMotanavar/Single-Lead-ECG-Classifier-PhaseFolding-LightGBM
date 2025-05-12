@@ -91,12 +91,9 @@ The pipeline generates performance visualizations (confusion matrix, feature imp
     - Full correlation matrix for all features.
 
 ## Thesis Reference
-- **Figure 4.1**: [percentage_confusion_matrix.png](https://raw.githubusercontent.com/BalkrishnaMotanavar/Single-Lead-ECG-Classifier-PhaseFolding-LightGBM/main/Visualizations/training_results/percentage_confusion_matrix.png)
-  - Caption: "Heatmap of percentage confusion matrix for ECG classification."
-- **Figure 4.2**: [feature_importance_fold_1.png](https://raw.githubusercontent.com/BalkrishnaMotanavar/Single-Lead-ECG-Classifier-PhaseFolding-LightGBM/main/Visualizations/training_results/feature_importance_fold_1.png)
-  - Caption: "Feature importance for ECG classification (Fold 1)."
-- **Figure 4.3**: [correlation_with_ecgdeli.png](https://raw.githubusercontent.com/BalkrishnaMotanavar/Single-Lead-ECG-Classifier-PhaseFolding-LightGBM/main/Visualizations/training_results/correlation_with_ecgdeli.png)
-  - Caption: "Correlation of phase-folded Lead V6 features with ECGdeli features."
+- **Figure 4.1**: "Heatmap of percentage confusion matrix for ECG classification."
+- **Figure 4.2**: "Feature importance for ECG classification (Fold 1)."
+- **Figure 4.3**: "Correlation of phase-folded Lead V6 features with ECGdeli features."
 
 ## Notes
 - **Superclass Mapping**: Ensure `scp_statements.csv` is in the PTB-XL dataset directory.
