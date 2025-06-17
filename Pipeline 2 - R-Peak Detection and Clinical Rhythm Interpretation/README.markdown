@@ -74,4 +74,4 @@ This pipeline detects R-peaks in preprocessed Lead V6 signals from Pipeline 1 us
   - Click “Add file” > “Upload files.”
   - Drag and drop `rpeak_detection_ecg_id_5.png` and `rpeak_detection_ecg_id_177.png`.
   - Commit with a message like “Added R-peak detection plots for Figure 3.2.”
-- For troubleshooting, check the thesis (Section 3.2) or contact [your_email@example.com].
+- For troubleshooting, check the thesis (Section 3.2).
