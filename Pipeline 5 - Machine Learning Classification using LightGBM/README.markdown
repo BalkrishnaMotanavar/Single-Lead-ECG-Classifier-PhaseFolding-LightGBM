@@ -104,4 +104,4 @@ The pipeline generates performance visualizations (confusion matrix, feature imp
   - Click “Add file” > “Upload files.”
   - Drag and drop `percentage_confusion_matrix.png`, `feature_importance_fold_1.png`, `correlation_with_ecgdeli.png`.
   - Commit with a message like “Added Pipeline 5 visualizations for Figures 4.1–4.3.”
-- For troubleshooting, check the thesis (Section 3.5) or contact [your_email@example.com].
+- For troubleshooting, check the thesis (Section 3.5).
