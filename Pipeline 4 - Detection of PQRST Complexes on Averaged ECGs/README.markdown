@@ -63,4 +63,4 @@ This pipeline detects PQRST complexes in phase-folded Lead V6 signals from Pipel
 - Noise in phase-folded signals can affect P-wave detection; verify Pipeline 3 outputs.
 - The notebook assumes `ecg_id_47` is processed; check input HDF5 files.
 - Features are validated against ECGdeli in Pipeline 5 (see Figure 4.3).
-- For troubleshooting, check the thesis (Section 3.4) or contact [your_email@example.com].
+- For troubleshooting, check the thesis (Section 3.4).
