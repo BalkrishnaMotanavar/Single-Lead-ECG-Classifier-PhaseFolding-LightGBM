@@ -63,4 +63,4 @@ This pipeline aligns and averages heartbeat cycles in preprocessed Lead V6 signa
 - Accurate R-peak data from Pipeline 2 is critical; misalignment can affect cycle normalization.
 - Cycles shorter than 1 sample are skipped to avoid errors.
 - The notebook processes `ecg_id_47` for Figure 3.3; ensure it’s included in the input HDF5 files.
-- For troubleshooting, check the thesis (Section 3.3) or contact [your_email@example.com].
+- For troubleshooting, check the thesis (Section 3.3).
