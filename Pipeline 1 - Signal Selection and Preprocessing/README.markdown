@@ -58,4 +58,4 @@ This pipeline extracts and preprocesses Lead V6 signals from the PTB-XL dataset,
 - Ensure the PTB-XL dataset is the 500 Hz version, as the notebook expects `fs=500`.
 - If `ptbxl_database.csv` is missing, download it from PhysioNet.
 - The HDF5 file is required for Pipelines 2–5; verify its generation before proceeding.
-- For troubleshooting, check the thesis (Section 3.1) or contact [your_email@example.com].
+- For troubleshooting, check the thesis (Section 3.1).
